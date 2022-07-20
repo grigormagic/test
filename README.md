@@ -1,4 +1,6 @@
-git add .     -avelacnum er github um
+git add .     -avelacnum er github um 
+
+
 git commit -m "ANUM@"
 git push origin BRENCHI ANUN@
 
